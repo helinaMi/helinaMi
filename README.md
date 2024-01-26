@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hel
 - 👀 I’m interested in Data Science and analytics
-- 🌱 I’m currently working On Data Science Projets at a Bank
+- 🌱 I’m currently working as Big Data specialist at Safaricom Ethiopia PLC
 - 💞️ I’m looking to collaborate on Machine Learning on Deep Learning
 - 📫 How to reach me @helinamesfin17@gmail.com
 
